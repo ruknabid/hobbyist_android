@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hobbyist</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Discover</string>
+    <string name="title_section3">Profile</string>
+    <string name="title_section4">Notification</string>
+    <string-array name="topics_list">
+        <item >Flow</item>
+        <item >제라늄</item>
+        <item >인테리어</item>
+    </string-array>
+    <string-array name="topics_name_list">
+        <item >array/flow_post_order</item>
+        <item >array/topic1_post_order</item>
+        <item >array/topic2_post_order</item>
+    </string-array>
+    <string-array name="prototype_compose_order">
+        <item >drawable/hobbyist_003</item>
+        <item >drawable/hobbyist_004</item>
+        <item >drawable/hobbyist_005</item>
+        <item >drawable/hobbyist_005_</item>
+        <item >drawable/hobbyist_006</item>
+        <item >drawable/hobbyist_006_</item>
+        <item >drawable/hobbyist_007</item>
+        <item >drawable/hobbyist_011_</item>
+        <item >drawable/hobbyist_010</item>
+    </string-array>
+    <string-array name="feature_post_order">
+        <item >array/post1</item>
+        <item >array/post6</item>
+        <item >array/post4</item>
+        <item >array/post5</item>
+    </string-array>
+    <string-array name="flow_post_order">
+        <item >array/post2</item>
+        <item >array/post6</item>
+        <item >array/post1</item>
+        <item >array/post3</item>
+        <item >array/post4</item>
+        <item >array/post5</item>
+    </string-array>
+    <string-array name="topic1_post_order">
+        <item >array/post2</item>
+        <item >array/post1</item>
+        <item >array/post3</item>
+        <item >array/post4</item>
+    </string-array>
+    <string-array name="topic2_post_order">
+        <item >array/post5</item>
+        <item >array/post6</item>
+    </string-array>
+    
+        
+    <string-array name="post1">
+        <item >0x0011</item>
+        <item >drawable/hobbyist_008_a01</item>
+    </string-array>
+    <string-array name="post2">
+        <item >0x0012</item>
+        <item >drawable/hobbyist_008_a02</item>
+    </string-array>
+    <string-array name="post3">
+        <item >0x0013</item>
+        <item >drawable/hobbyist_008_a03</item>
+        <item >drawable/hobbyist_008_a04</item>
+        <item >drawable/hobbyist_008_a03</item>
+    </string-array>   
+    <string-array name="post4">
+        <item >0x0014</item>
+        <item >drawable/hobbyist_008_a05</item>
+    </string-array>
+    <string-array name="post5">
+        <item >0x0015</item>
+        <item >drawable/hobbyist_008_b01</item>
+    </string-array>   
+    <string-array name="post6">
+        <item >0x0016</item>
+        <item >drawable/hobbyist_008_b02</item>
+        <item >drawable/hobbyist_008_b03</item>
+    </string-array>                
+</resources>
